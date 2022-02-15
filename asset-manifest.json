@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reactass1/src/static/css/main.418abf32.css",
-    "main.js": "/reactass1/src/static/js/main.5803294c.js",
-    "static/js/787.314a44bd.chunk.js": "/reactass1/src/static/js/787.314a44bd.chunk.js",
-    "static/media/logo.svg": "/reactass1/src/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/reactass1/src/index.html",
-    "main.418abf32.css.map": "/reactass1/src/static/css/main.418abf32.css.map",
-    "main.5803294c.js.map": "/reactass1/src/static/js/main.5803294c.js.map",
-    "787.314a44bd.chunk.js.map": "/reactass1/src/static/js/787.314a44bd.chunk.js.map"
+    "main.css": "/reactass1/static/css/main.c9498c12.css",
+    "main.js": "/reactass1/static/js/main.c65ea2b8.js",
+    "static/js/787.314a44bd.chunk.js": "/reactass1/static/js/787.314a44bd.chunk.js",
+    "static/media/logo.svg": "/reactass1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactass1/index.html",
+    "main.c9498c12.css.map": "/reactass1/static/css/main.c9498c12.css.map",
+    "main.c65ea2b8.js.map": "/reactass1/static/js/main.c65ea2b8.js.map",
+    "787.314a44bd.chunk.js.map": "/reactass1/static/js/787.314a44bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.418abf32.css",
-    "static/js/main.5803294c.js"
+    "static/css/main.c9498c12.css",
+    "static/js/main.c65ea2b8.js"
   ]
 }
